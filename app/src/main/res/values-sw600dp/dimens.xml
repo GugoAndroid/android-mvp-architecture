@@ -1,0 +1,38 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <!--Image View-->
+    <dimen name="view_size_0">13dp</dimen>
+    <dimen name="view_size_1">17dp</dimen>
+    <dimen name="view_size_2">24dp</dimen>
+    <dimen name="view_size_3">28dp</dimen>
+    <dimen name="view_size_4">40dp</dimen>
+    <dimen name="view_size_5">54dp</dimen>
+    <dimen name="view_size_6">68dp</dimen>
+    <dimen name="view_size_7">110dp</dimen>
+    <dimen name="view_size_8">140dp</dimen> <!-- NOT CHANGE VALUE -->
+    <dimen name="view_size_9">170dp</dimen>
+    <dimen name="view_size_10">210dp</dimen>
+    <dimen name="view_size_11">250dp</dimen>
+    <dimen name="view_size_12">280dp</dimen>
+
+    <!--Text size-->
+    <dimen name="text_size_1">10sp</dimen>
+    <dimen name="text_size_2">13sp</dimen>
+    <dimen name="text_size_3">16sp</dimen>
+    <dimen name="text_size_4">20sp</dimen>
+    <dimen name="text_size_5">23sp</dimen>
+    <dimen name="text_size_6">26sp</dimen>
+    <dimen name="text_size_7">31sp</dimen>
+    <dimen name="text_size_8">37sp</dimen>
+    <dimen name="text_size_9">45sp</dimen>
+    <dimen name="text_size_11">85sp</dimen>
+
+    <!--Image size-->
+    <item name="image_size_smaller" format="float" type="dimen">100</item>
+    <item name="image_size_small" format="float" type="dimen">250</item>
+    <item name="image_size_normal" format="float" type="dimen">500</item>
+    <item name="image_size_big" format="float" type="dimen">800</item>
+    <item name="image_size_bigger" format="float" type="dimen">1200</item>
+</resources>

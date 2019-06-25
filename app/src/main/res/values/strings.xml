@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MVVMTest</string>
+
+    <!--A-->
+    <string name="all_news">All news</string>
+
+    <!--B-->
+
+    <!--C-->
+    <string name="continue_as_a_guest">Continue as a guest</string>
+
+    <!--D-->
+    <string name="default_error_message">Sorry something went wrong. Please try again later.</string>
+
+    <!--E-->
+
+    <!--F-->
+
+    <!--G-->
+
+    <!--H-->
+
+    <!--I-->
+
+    <!--J-->
+
+    <!--K-->
+
+    <!--L-->
+    <string name="login">Login</string>
+
+    <!--M-->
+
+    <!--N-->
+    <string name="network_error_message">No internet connection. Please try again later.</string>
+
+    <!--O-->
+
+    <!--P-->
+    <string name="password">Password</string>
+
+    <!--Q-->
+
+    <!--R-->
+
+    <!--S-->
+    <string name="sign_in">Sign in</string>
+
+    <!--T-->
+
+    <!--U-->
+
+    <!--V-->
+
+    <!--W-->
+
+    <!--X-->
+
+    <!--Y-->
+
+    <!--Z-->
+
+    <!--Array-->
+
+</resources>

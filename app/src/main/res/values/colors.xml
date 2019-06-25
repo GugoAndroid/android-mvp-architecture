@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e5324a</color>
+    <color name="colorPrimaryDark">#d82b42</color>
+    <color name="colorAccent">#e5324a</color>
+
+    <color name="background_color">#f9f9f9</color>
+    <color name="black_color">#000000</color>
+    <color name="black_transparent">#20000000</color>
+
+    <color name="edit_text_background_color">#fff9fa</color>
+
+    <color name="gradient_1_color">#e5324a</color>
+    <color name="gradient_2_color">#ff9a6d</color>
+    <color name="gray_color_1">#f5f5f5</color>
+    <color name="gray_color_2">#f1f1f1</color>
+    <color name="gray_color_3">#e2e2e2</color>
+    <color name="gray_color_4">#6a6a6a</color>
+    <color name="gray_color_5">#373737</color>
+    <color name="green">#35af10</color>
+
+    <color name="main_red_color">#e5324a</color>
+
+    <color name="no_image_color">#f5f5f5</color>
+
+    <color name="transparent">#00ffffff</color>
+
+    <color name="white_color">#ffffff</color>
+</resources>
